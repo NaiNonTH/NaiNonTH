@@ -15,4 +15,4 @@ More about me:
 - Discord: NaiNonTheN00b1#3679
 - Planet Minecraft: https://www.planetminecraft.com/member/nainonthen00b1/
 - Steam: https://steamcommunity.com/id/nainonthenoobone/
-- GitHub: github.com/nainonth
+- GitHub: https://github.com/nainonth
