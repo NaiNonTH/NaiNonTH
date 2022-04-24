@@ -22,6 +22,8 @@ I also provide Thai translations to many mods like...
 👀 I’m interested in Games, Mods
 Contacts:
 - Discord: NaiNonTheN00b1#3679
-- Planet Minecraft: https://www.planetminecraft.com/member/nainonthen00b1/
-- Steam: https://steamcommunity.com/id/nainonthenoobone/
-- GitHub: https://github.com/nainonth
+- [Planet Minecraft](https://www.planetminecraft.com/member/nainonthen00b1/)
+- [Steam](https://steamcommunity.com/id/nainonthenoobone/)
+- [GitHub](https://github.com/nainonth)
+
+[More Link](https://linktr.ee/nainonthen00b1)
