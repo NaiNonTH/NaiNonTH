@@ -1,6 +1,6 @@
 # == About Me ==
 ## Introduction And Projects
-Hello 👋 , I’m @NaiNonTH or you can call me NaiNonTheN00b1 (as an in-game name) or NaiNon. Currently, I'm making some Minecraft resource packs and publish them on Planet Minecraft.
+Hello 👋 , I’m @NaiNonTH, or you can call me NaiNonTheN00b1 (as an in-game name) or NaiNon. Currently, I'm making some Minecraft resource packs and publish them on Planet Minecraft.
 Example Projects like...
 - [Foliage+](https://www.planetminecraft.com/texture-pack/foliage-v-1-0/)
 - [Improved Fences](https://www.planetminecraft.com/texture-pack/improved-fences-v1-0/)
