@@ -19,7 +19,12 @@ I also provide Thai translations to many mods like...
 ## More about me:
 📕 I'm a student, currently.  
 🇹🇭 I'm from Thailand.  
-👀 I’m interested in Games, Mods
+👀 I’m interested in Games, Mods, and HTML/CSS
+
+---
+[Check out my brand new website!](https://nainonth.github.io)
+
+---
 Contacts:
 - Discord: NaiNonTheN00b1#3679
 - [Planet Minecraft](https://www.planetminecraft.com/member/nainonthen00b1/)
