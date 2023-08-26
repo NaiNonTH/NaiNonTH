@@ -19,7 +19,9 @@ I also provide Thai translations to many mods like...
 ## More about me:
 📕 I'm a student, currently.  
 🇹🇭 I'm from Thailand.  
-👀 I’m interested in Games, Mods, and HTML/CSS
+👀 I’m interested in Games, Mods, and Web Development
+
+Do Minecraft resource packs and some small Web app projects in my free time.
 
 ---
 [Check out my brand new website!](https://nainonth.github.io)
